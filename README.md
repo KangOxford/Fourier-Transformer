@@ -1,4 +1,4 @@
-# FokkerPlanckTransformer
+# FokkerPlanck-Transformer
 
 Transformer for solving the problem in `Stochastic Local Volatility`
 
