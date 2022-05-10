@@ -13,3 +13,6 @@ Transformer for solving the problem in `Stochastic Local Volatility`
 
 ## Week3
 * Try with FNO for basic set up of the experiment.
+* The FNO model for solving a family of PDEs.
+  * [FNO paper]()
+  * [FNO  data]() 
