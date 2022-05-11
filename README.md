@@ -20,6 +20,7 @@ Transformer for solving the problem in `Stochastic Local Volatility`
 * Try with FNO for basic set up of the experiment.
 * The FNO model for solving entire family of PDEs.
   * [FNO project](https://github.com/zongyi-li/fourier_neural_operator)
+  * [FNO introduction](https://zongyi-li.github.io/blog/2020/fourier-pde/)
   * [FNO    data](https://drive.google.com/drive/folders/1LfmrsIw6Wo_vbYhy3Azr4KVK8FeZDLT8?usp=sharing) 
   * [FNO models](https://drive.google.com/drive/folders/1pxQeQhE-M9OGbVIHr35fid4CDquXFWa-?usp=sharing)
     * Here are the pre-trained models. It can be evaluated using eval.py or super_resolution.py
