@@ -17,3 +17,6 @@ Transformer for solving the problem in `Stochastic Local Volatility`
   * [FNO project](https://github.com/zongyi-li/fourier_neural_operator)
   * [FNO    data](https://drive.google.com/drive/folders/1LfmrsIw6Wo_vbYhy3Azr4KVK8FeZDLT8?usp=sharing) 
   * [FNO models](https://drive.google.com/drive/folders/1pxQeQhE-M9OGbVIHr35fid4CDquXFWa-?usp=sharing)Here are the pre-trained models. It can be evaluated using eval.py or super_resolution.py
+* By now there is no need to focus on the Galerkin Transformer, as it only provides a better precision on results.
+* We will focus more on the FNO in the next stages.
+* The FNO is more focused on solving a family of PDEs without try to train the neural network from the scratch, such as when the initial condition or the boundary condition change.
