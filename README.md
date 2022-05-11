@@ -4,6 +4,11 @@ Transformer for solving the problem in `Stochastic Local Volatility`
 * Basic Component
   * All the files can be found [here](https://drive.google.com/drive/folders/1tUCTlFCo_-FoiCj-LkJdOsZrlSSq4mTe?usp=sharing)
   * [Online SDE optimization simulation](https://drive.google.com/file/d/1QRuUF7aWUdJ25q0jIrGUu63Mn1ohrIMp/view)
+* Stages of the lab
+  * Lab_0, sampling of the FokkerPlanck PDE, with the help of Quantlib.
+  * Lab_1, FNO in solving the FokkerPlanck PDE.
+  * Lab_2, FNO Transformer in solving the FokkerPlanck PDE.
+
 * Basic Introduction
   * Mid-May UBS Tour
   * Normally, it would be a high dimensional problem if the pde dimension is over 4 and almost can not be solved if the dimension is over 7.
