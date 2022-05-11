@@ -2,7 +2,7 @@
 
 Transformer for solving the problem in `Stochastic Local Volatility`
 * Basic Component
-  * All the documents can be found [here](https://drive.google.com/drive/folders/1tUCTlFCo_-FoiCj-LkJdOsZrlSSq4mTe?usp=sharing)
+  * All the files can be found [here](https://drive.google.com/drive/folders/1tUCTlFCo_-FoiCj-LkJdOsZrlSSq4mTe?usp=sharing)
   * [Online SDE optimization simulation](https://drive.google.com/file/d/1QRuUF7aWUdJ25q0jIrGUu63Mn1ohrIMp/view)
 * Basic Introduction
   * Mid-May UBS Tour
@@ -14,5 +14,5 @@ Transformer for solving the problem in `Stochastic Local Volatility`
 ## Week3
 * Try with FNO for basic set up of the experiment.
 * The FNO model for solving a family of PDEs.
-  * [FNO paper]()
-  * [FNO  data]() 
+  * [FNO project](https://github.com/zongyi-li/fourier_neural_operator)
+  * [FNO    data](https://drive.google.com/drive/folders/1LfmrsIw6Wo_vbYhy3Azr4KVK8FeZDLT8?usp=sharing) 
