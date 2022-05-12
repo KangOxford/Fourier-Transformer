@@ -17,9 +17,8 @@ Transformer for solving the problem in `Stochastic Local Volatility`
     * In solving `Elliptic PDE`, [Neural Q-learning for solving elliptic PDEs](https://drive.google.com/file/d/1rh6Syg8r4UgnDKIBX7bOw2zkC_4DDMF6/view?usp=sharing)
 
 ## Week3
+
 ![Process](\static\Process.svg)
-
-
 
 * Problems remian in this week
   * Only a set of PDEs are suitable for Fourier Transform.
