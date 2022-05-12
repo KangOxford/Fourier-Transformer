@@ -18,7 +18,7 @@ Transformer for solving the problem in `Stochastic Local Volatility`
 
 ## Week3
 
-![Process](static/Process.svg)
+
 
 * Problems remian in this week
   * Only a set of PDEs are suitable for Fourier Transform.
