@@ -1,6 +1,8 @@
 """
 @author: Zongyi Li
-This file is the Fourier Neural Operator for 3D problem such as the Navier-Stokes equation discussed in Section 5.3 in the [paper](https://arxiv.org/pdf/2010.08895.pdf),
+This file is the Fourier Neural Operator for 3D problem 
+such as the Navier-Stokes equation discussed in Section 5.3 
+in the [paper](https://arxiv.org/pdf/2010.08895.pdf),
 which takes the 2D spatial + 1D temporal equation directly as a 3D problem
 """
 
