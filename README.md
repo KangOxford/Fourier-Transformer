@@ -27,7 +27,7 @@ Transformer for solving the problem in `Stochastic Local Volatility`
   * To solve different PDEs, do we need to change the code in the FNO?
     * Or the info has been included in the dataset by sampling.
   * We need to solve a two dimensional difussion equation.
-    * https://github.com/KangOxford/Fourier-Transformer/blob/624f014f2505505896045e94a2a2c78c9a2ec26d/fourier_neural_operator/fourier_3d.py#L1-L5
+    * https://github.com/KangOxford/Fourier-Transformer/blob/6fd306e6a6856a46b3db78fa57db8ced3c307060/fourier_neural_operator/fourier_3d.py#L1-L7
   * How does the advantage of operator learning functions in this lab?
     * Does it not need to train again with different intial condition or boundrary condition.
     * Perhaps. As the Operator is learnt. So one of the three condtion has been solved, with the other two to be the intial condition and boundrary condition.
