@@ -17,7 +17,12 @@ Transformer for solving the problem in `Stochastic Local Volatility`
     * In solving `Elliptic PDE`, [Neural Q-learning for solving elliptic PDEs](https://drive.google.com/file/d/1rh6Syg8r4UgnDKIBX7bOw2zkC_4DDMF6/view?usp=sharing)
 
 ## Week3
-* Only a set of PDEs are suitable for Fourier Transform.
+![Process](\static\Process.svg)
+
+
+
+* Problems remian in this week
+  * Only a set of PDEs are suitable for Fourier Transform.
   * Why sample is `256*256` and downsample is `64*64`, what has downsampling done here?
   * How MCMC using FNO？
   * To solve different PDEs, do we need to change the code in the FNO?
