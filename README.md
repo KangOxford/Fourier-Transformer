@@ -20,6 +20,8 @@ Transformer for solving the problem in `Stochastic Local Volatility`
 
 ![Process](\static\Process.svg)
 
+![Process](\static\Process.png)
+
 * Problems remian in this week
   * Only a set of PDEs are suitable for Fourier Transform.
   * Why sample is `256*256` and downsample is `64*64`, what has downsampling done here?
