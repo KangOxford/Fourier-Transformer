@@ -10,11 +10,19 @@ Transformer for solving the problem in `Stochastic Local Volatility`
   * Lab_2, FNO Transformer in solving the FokkerPlanck PDE.
 
 * Basic Introduction
-  * Mid-May UBS Tour
+  * July UBS Tour
   * Normally, it would be a high dimensional problem if the pde dimension is over 4 and almost can not be solved if the dimension is over 7.
   * There are also some RL based methods to solve it
     * In solving `HJB PDE`, [Actor-Critic Method for High Dimensional Static Hamilton-Jacobi-Bellman Partial Differential Equations based on Neural Networks](https://drive.google.com/file/d/1HaaCSM7JVOiG9VpH0m72fsYW_urPEwsb/view?usp=sharing)   
     * In solving `Elliptic PDE`, [Neural Q-learning for solving elliptic PDEs](https://drive.google.com/file/d/1rh6Syg8r4UgnDKIBX7bOw2zkC_4DDMF6/view?usp=sharing)
+
+## Week4
+* The interface bwtween Quantlib and Transform
+  * Sampling point format
+  * Pre-process data format on our own
+* The result of the PDE is in a stochastic way, which is totally different from the 
+
+
 
 ## Week3
 
