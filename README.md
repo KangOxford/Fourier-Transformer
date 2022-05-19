@@ -21,6 +21,9 @@ Transformer for solving the problem in `Stochastic Local Volatility`
   * Sampling point format
   * Pre-process data format on our own
 * The result of the PDE is in a stochastic way, which is totally different from the 
+* Reference paper
+  * `Fourier Neural Operator` [Fourier Neural Operator for Parametric Partial Differential Equations](https://drive.google.com/file/d/1izZPb4bfFm7nvD7k_cwRz_9v5moqR2oq/view?usp=sharing)
+  * `Galerkin Transformer` [Choose a Transformer Fourier or Galerkin](https://drive.google.com/file/d/1PzW236pBHC71Ad-vTKiKo6NjVzeslYhp/view?usp=sharing)
 
 
 
