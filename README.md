@@ -3,11 +3,11 @@
 Transformer for solving the problem in `Stochastic Local Volatility`
 * Basic Component
   * All the files can be found [here](https://drive.google.com/drive/folders/1tUCTlFCo_-FoiCj-LkJdOsZrlSSq4mTe?usp=sharing)
-  * [Online SDE optimization simulation](https://drive.google.com/file/d/1QRuUF7aWUdJ25q0jIrGUu63Mn1ohrIMp/view)
+  * The problem is denfined in [Stochastic Local Volatility](https://drive.google.com/file/d/184I0tqs4zpfCbq3lyIeRzp175HkjXA0J/view?usp=sharing), with SDE of 2 dimensions in space and 1 dimension in time.
 * Stages of the lab
-  * Lab_0, sampling of the FokkerPlanck PDE, with the help of Quantlib.
-  * Lab_1, FNO in solving the FokkerPlanck PDE.
-  * Lab_2, FNO Transformer in solving the FokkerPlanck PDE.
+  * Experiment_0, sampling of the FokkerPlanck PDE, with the help of Quantlib.
+  * Experiment_1, FNO in solving the FokkerPlanck PDE.
+  * Experiment_2, FNO Transformer in solving the FokkerPlanck PDE.
 
 * Basic Introduction
   * July UBS Tour
