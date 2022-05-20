@@ -1,4 +1,4 @@
-# FokkerPlanck-Transformer
+# Fourier-Transformer for solving Fokker-Planck PDE
 
 Transformer for solving the problem in `Stochastic Local Volatility`
 * Basic Component
@@ -25,6 +25,7 @@ Transformer for solving the problem in `Stochastic Local Volatility`
   * `Fourier Neural Operator` [Fourier Neural Operator for Parametric Partial Differential Equations](https://drive.google.com/file/d/1izZPb4bfFm7nvD7k_cwRz_9v5moqR2oq/view?usp=sharing)
   * `Galerkin Transformer` [Choose a Transformer Fourier or Galerkin](https://drive.google.com/file/d/1PzW236pBHC71Ad-vTKiKo6NjVzeslYhp/view?usp=sharing)
   * `Fourier Transformer` [Adaptive Fourier Neural Operators: Efficient Token Mixers for Transformers](https://drive.google.com/file/d/1_YIJilTPHvddl8m2hHGU7sdhnH9eV_jZ/view?usp=sharing)
+  * `DeepXDE` [A deep learning library for solving differential equations](https://arxiv.org/abs/1907.04502)
 
 
 
