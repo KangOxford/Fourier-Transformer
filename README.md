@@ -17,12 +17,18 @@ Transformer for solving the problem in `Stochastic Local Volatility`
     * In solving `Elliptic PDE`, [Neural Q-learning for solving elliptic PDEs](https://drive.google.com/file/d/1rh6Syg8r4UgnDKIBX7bOw2zkC_4DDMF6/view?usp=sharing)
 
 ## Week4
+`2022.May.09, 11:00AM~12:15Noon`, with `Dr. Shuhao Cao`, `Ziheng Wang`, and `Deqing Jiang` at `Mathematical Institute`.
 * The interface bwtween Quantlib and Transform
   * Sampling point format
   * Pre-process data format on our own
 * The result of the PDE is in a stochastic way, which is totally different from the 
-
-
+* ![static](static/Snipaste_2022-05-20_21-31-32.png)
+</br> In order to get `v`, the `p` is what we want to solve, the transition density. It can be discribed by The Fokker-Planck Equation, which is 2 dimensions in space and 1 dimension in time.
+</br> ![static](static/Snipaste_2022-05-20_21-35-03.png)
+* `#TODO` Problems still remains
+  * How to define the input data format
+  * How to define the final result of our model
+  * Is there any advantage compared with the tradition method `Monte Carlo`?
 
 ## Week3
 
