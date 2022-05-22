@@ -9,7 +9,6 @@ Transformer for solving the problem in `Stochastic Local Volatility`
   * Experiment_1, FNO in solving the FokkerPlanck PDE.
   * Experiment_2, FNO Transformer in solving the FokkerPlanck PDE.
 * Basic Introduction
-  * July UBS Tour
   * There are also some RL based methods to solve it
     * In solving `HJB PDE`, [Actor-Critic Method for High Dimensional Static Hamilton-Jacobi-Bellman Partial Differential Equations based on Neural Networks](https://drive.google.com/file/d/1HaaCSM7JVOiG9VpH0m72fsYW_urPEwsb/view?usp=sharing)   
     * In solving `Elliptic PDE`, [Neural Q-learning for solving elliptic PDEs](https://drive.google.com/file/d/1rh6Syg8r4UgnDKIBX7bOw2zkC_4DDMF6/view?usp=sharing)
